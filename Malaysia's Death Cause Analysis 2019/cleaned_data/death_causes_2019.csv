@@ -1,0 +1,21 @@
+death_cause,death_count,percentage,certification
+Ischaemic heart diseases,16325,14.95456377560368,medical
+Pneumonia,13356,12.234802682202924,medical
+Cerebrovascular diseases,8691,7.961415851379576,medical
+Transport accidents,4198,3.8455901212854053,medical
+"Malignant neoplasm of trachea, bronchus and lung",2602,2.383569674984427,medical
+Chronic lower respiratory diseases,2312,2.1179143307317427,medical
+Diabetes mellitus,2008,1.839434245722033,medical
+"Malignant neoplasm of colon, rectum and anus",1873,1.7157671027078523,medical
+Malignant neoplasm of breast,1869,1.7121028910629876,medical
+Diseases of the liver,1601,1.4666007108570591,medical
+Old age 65 years and over,30665,47.48227060171565,non-medical
+Hypertension,2393,3.7053668204762933,non-medical
+Diabetes mellitus,1997,3.092192871078629,non-medical
+Cerebrovascular diseases,1708,2.644699761543464,non-medical
+Asthma,1076,1.6645504939456812,non-medical
+Ischaemic heart diseases,1023,1.5840327026106344,non-medical
+"Trachea, bronchus and lung cancer",742,1.148926945588554,non-medical
+"Colon, rectum and anus cancer",715,1.1071196308568951,non-medical
+Liver cancer,533,0.8253073611842309,non-medical
+Breast cancer,524,0.8113715896070113,non-medical

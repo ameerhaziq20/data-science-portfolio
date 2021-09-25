@@ -24,28 +24,3 @@ This analysis will try to answer the following questions:
 * Storage
     * The collected comments will be stored in a CSV file.
     * The cleaned comments will also be stored as both CSV file.
-    
-# 4. Report
-* Sentiment polarity count
-
-![png](https://raw.githubusercontent.com/ameerhaziq20/ameerhaziq20.github.io/main/_projects/Fast%209%20Reddit%20Comments%20Sentiment%20Analysis%20using%20NLTK%20and%20PRAW/output_72_0.png)
-    
-**Description:** The bar chart shows that count of polarity labels from the Fast 9 movie Reddit comments. From the chart we can see that most of the comments are 'weak positive'. This shows that Reddit comments on the post are reacting slightly positive towards the movie.
-
-* Distribution of polarity scores
-
-![png](https://raw.githubusercontent.com/ameerhaziq20/ameerhaziq20.github.io/main/_projects/Fast%209%20Reddit%20Comments%20Sentiment%20Analysis%20using%20NLTK%20and%20PRAW/output_67_0.png)
-    
-**Description:** The polarity score distribution graph shows a unimodal bell shaped distribution. A left skew is shown from the distribution which tells us that the mean gets pulled towards the tail, and is less than the median. 
-
-* Distribution of subjectivity scores
-
-![png](https://raw.githubusercontent.com/ameerhaziq20/ameerhaziq20.github.io/main/_projects/Fast%209%20Reddit%20Comments%20Sentiment%20Analysis%20using%20NLTK%20and%20PRAW/output_69_0.png)
-    
-**Description:** The subjectivity score distribution graph shows a bimodal distribution. A slight right skew is shown from the distribution which tells us that the mean gets pulled towards the tail, and is greater than the median. 
-
-* 
-![png](https://raw.githubusercontent.com/ameerhaziq20/ameerhaziq20.github.io/main/_projects/Fast%209%20Reddit%20Comments%20Sentiment%20Analysis%20using%20NLTK%20and%20PRAW/output_74_0.png)
-   
-
-**Description:** The bar chart shows that count of subjectivity labels from the Fast 9 movie Reddit comments. From the chart we can see that most of the comments are 'objective'. This means that most of the collected comments are mostly factual albeit by only a small margin of difference with the count of subjective comments. 

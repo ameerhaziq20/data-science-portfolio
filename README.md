@@ -19,4 +19,4 @@ These projects are made and driven by my passion towards everything in the field
 * Sentiment analysis(NLTK, TextBlob)
 * Text mining(PRAW, Tweepy)
 
-![nemo](https://www.siliconrepublic.com/wp-content/uploads/2014/12/img/data-analyst1.jpg)
+![nemo](https://media.makeameme.org/created/data-science-5af7ad.jpg)

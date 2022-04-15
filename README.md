@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# data-science-portfolio
  A repository of my projects on data analytics using various tools, approaches, and programming languages.
 
 These projects are made and driven by my passion towards everything in the field data and possibly do more projects going forward.
